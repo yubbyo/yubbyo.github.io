@@ -37,13 +37,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://example.com/ja/tags/"
+                hreflang="zh-cn"
+                href="https://example.com/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                hreflang="ja"
+                href="https://example.com/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
